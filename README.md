@@ -1,6 +1,3 @@
-# first_repo
+# Pytorch
 
-## Writing more stuff
-
-There should be no inline text.
-
+## Exploring with Pytorch
