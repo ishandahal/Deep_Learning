@@ -1,3 +1,3 @@
 # Pytorch
 
-## Exploring with Pytorch
+## Fastai API and Pytorch
