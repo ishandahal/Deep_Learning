@@ -1,7 +1,8 @@
-# Pytorch and TensorFlow
+# Packages used: 
 
-### Fastai API, Pytorch and TensorFlow
+Fastai, Pytorch & Tensorflow
 
 Collection of deep learning models.
-Implemented during self study.
+
+
 
